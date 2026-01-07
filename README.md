@@ -66,7 +66,7 @@ The visualization window uses the following color scheme:
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/dagaaryan011/Reinforcents.git](https://github.com/dagaaryan011/Reinforcents.git)
+git clone [git@github.com:dagaaryan011/GridRunner.git]
 cd Reinforcents
 ```
 
